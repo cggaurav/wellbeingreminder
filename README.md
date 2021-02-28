@@ -1,8 +1,8 @@
-# Humane Nudge 
+# Wellbeing Reminder
 
-A twitter bot reminder to ask you to be more intentional with your technology use.
+A twitter bot reminder to take care of your wellebing
 
 ## How do I follow these reminders?
 
-Follow on [Twitter](http://twitter.com/humanenudge)
+Follow on [Twitter](http://twitter.com/wellbeingnudge)
 
